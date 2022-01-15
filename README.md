@@ -1,7 +1,7 @@
 <img align="left" style="width: 200px;" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png">
 
 Hello! I'm 𝕮𝖆𝖕𝖔𝖓𝖊.</p>
-Clowning the CIA.</p>
+Ｃｌｏｗｎｉｎｇ ｔｈｅ ＣＩＡ</p>
 <p>𝕮𝖆𝖕𝖔𝖓𝖊</p>
 <br><br><br>
 <hr>
