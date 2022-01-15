@@ -1,11 +1,11 @@
 <img align="left" style="width: 200px;" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png">
 
 Hello! I'm 𝕮𝖆𝖕𝖔𝖓𝖊.</p>
-Currently, I'm studying C++ and C</p>
+Clowning the CIA.</p>
 <p>𝕮𝖆𝖕𝖔𝖓𝖊</p>
 <br><br><br>
 <hr>
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Capone1941&bg_color=0D1117&color=b4b4b4&line=F85D7F&point=b4b4b4&hide_border=true" />
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CaponeSec&bg_color=0D1117&color=b4b4b4&line=F85D7F&point=b4b4b4&hide_border=true" />
 </p>
 <hr>
 <br><br>
